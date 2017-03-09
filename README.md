@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Натуральные продукты для мыла ручной работы
 
-You can use the [editor on GitHub](https://github.com/gcreative/lilimade/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Основная идея вкладываемая в эти изделия - сделать уникальное и полезное мыло для себя и своих близких. Обязательным условием в изготовлении является использование только натуральных продуктов. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Кофе и масла с сильным скрабирующим эффектом
 
-### Markdown
+Прежде всего, для его изготовления берутся самые безопасные компоненты, которые мягко воздействуют на кожу. Средство не пересушивает ее и смягчает, а также удаляет омертвевшие частички. После его использования ваше лицо и тело будет сиять здоровьем и красотой. Вы точно знаете, что вы добавляете в мыло-скраб с кофе, в нем нет химических добавок. Кофе содержит антиоксиданты, которые омолаживают кожу и улучшают ее тонус.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Каша овсянка, не ешь а мойся
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gcreative/lilimade/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Нужно контент оформлять в двух видах. Рассказ о продукте, его свойствах и рассказ истории как он создается. Прикладывая для наглядности фото процесса изготовления. 
